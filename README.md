@@ -34,8 +34,9 @@ env\Scripts\activate  # Sur Windows
 pip install -r requirements.txt
 
  
-Structure du projet
-/MP_data : Contient les jeux de données d'entraînement et de test pour les gestes de la langue des signes.
+Structure du projet : 
+
+/MP_DATA : Contient les jeux de données d'entraînement et de test pour les gestes de la langue des signes.
 /models : Contient les fichiers du modèle pré-entraîné CNN-LSTM.
 /scripts : Scripts pour l'entraînement du modèle, l'inférence en temps réel, etc.
 /interface : Contient les fichiers pour l'interface utilisateur en temps réel (Streamlit).
