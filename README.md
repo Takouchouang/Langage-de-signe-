@@ -22,8 +22,8 @@ Streamlit : Pour l'interface utilisateur.
 
 Installation
 1. Cloner le projet
-git clone https://github.com/Takouchouang/Langue de signe.git
-cd langue de signe
+git clone https://github.com/Takouchouang/Langue-de-signe.git
+cd langage-de-signe
 
 2. Créer un environnement virtuel
 python -m venv env
