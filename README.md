@@ -21,7 +21,7 @@ Streamlit : Pour l'interface utilisateur.
 
 
  # Installation
-1. Cloner le projet:
+1. Cloner le projet :
 - git clone https://github.com/Takouchouang/Langage-de-signe.git
 - cd langage-de-signe
 
