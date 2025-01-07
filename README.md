@@ -40,3 +40,8 @@ pip install -r requirements.txt
 /models : Contient les fichiers du modèle pré-entraîné CNN-LSTM.
 /scripts : Scripts pour l'entraînement du modèle, l'inférence en temps réel, etc.
 /interface : Contient les fichiers pour l'interface utilisateur en temps réel (Streamlit).
+
+# Auteurs : 
+Takouchouang Fraisse Sacre
+
+
