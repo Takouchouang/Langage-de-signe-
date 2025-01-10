@@ -33,7 +33,7 @@ Streamlit : Pour l'interface utilisateur.
 # Sur Windows
 
 3. Installer les dépendances
-*pip install -r requirements.txt*
+**pip install -r requirements.txt**
 
  
 # Structure du projet : 
