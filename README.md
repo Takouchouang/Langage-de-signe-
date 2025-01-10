@@ -27,9 +27,9 @@ Streamlit : Pour l'interface utilisateur.
 
 2. Créer un environnement virtuel
 python -m venv env
-   - **Pour Linux/Mac**
+- **Pour Linux/Mac** :
 source env/bin/activate :
-- **Pour Windows**
+- **Pour Windows** :
 env\Scripts\activate :
   
 
