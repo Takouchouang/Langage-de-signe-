@@ -27,12 +27,12 @@ Streamlit : Pour l'interface utilisateur.
 
 2. Créer un environnement virtuel
 - python -m venv env
-- source env/bin/activate
-# Sur Linux/Mac
-- env\Scripts\activate
-# Sur Windows
+- source env/bin/activate :
+ **Pour Linux/Mac**
+- env\Scripts\activate :
+  **Pour Windows**
 
-3. Installer les dépendances
+3. Installer les dépendances :
 **pip install -r requirements.txt**
 
  
