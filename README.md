@@ -26,9 +26,9 @@ Streamlit : Pour l'interface utilisateur.
 - cd langage-de-signe
 
 2. Créer un environnement virtuel
-python -m venv env
-source env/bin/activate  # Sur Linux/Mac
-env\Scripts\activate  # Sur Windows
+- python -m venv env
+- source env/bin/activate  # Sur Linux/Mac
+- env\Scripts\activate  # Sur Windows
 
 3. Installer les dépendances
 pip install -r requirements.txt
