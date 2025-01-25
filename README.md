@@ -45,6 +45,6 @@ env\Scripts\activate :
 - interface : Contient les fichiers pour l'interface utilisateur en temps réel (Streamlit).
 
 # Auteurs : 
-Takouchouang Fraisse Sacre
+- Takouchouang Fraisse Sacre
 
 
