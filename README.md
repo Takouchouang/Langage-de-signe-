@@ -14,7 +14,7 @@ Prévoir une haute précision de reconnaissance pour un large éventail de signe
 
 # Technologies utilisées : 
 Python : Langage de programmation principal.
-Keras/TensorFlow : Frameworks pour la construction du modèle CNN-LSTM.
+Keras/TensorFlow : Frameworks pour la construction du modèle **CNN-LSTM**.
 Mediapipe : Utilisé pour la détection des repères du corps humain en temps réel, y compris les mains et le visage, afin de capturer les gestes de la langue des signes.
 OpenCV : Pour le traitement des images et la capture en temps réel via la caméra.
 Streamlit : Pour l'interface utilisateur.
