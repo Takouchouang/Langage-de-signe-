@@ -2,7 +2,7 @@
 Conception  d'un Système de Reconnaissance des Langues de Signes en utilisant **CNN-LSTM** en integrant a un interface Streamlit.
 
 # Description : 
-Ce projet vise à concevoir un système de reconnaissance des Langues des Signes (**LS**) en utilisant une combinaison des réseaux de neurones convolutifs (**CNN**) et des réseaux de neurones à mémoire à long terme (**LSTM**). Le modèle **CNN** est utilisé pour extraire les caractéristiques visuelles des signes, tandis que LSTM est utilisé pour capturer la dynamique temporelle des mouvements des mains et des gestes.
+Ce projet vise à concevoir un système de reconnaissance des Langues des Signes (**LS**) en utilisant une combinaison des réseaux de neurones convolutifs (**CNN**) et des réseaux de neurones à mémoire à long terme (**LSTM**). Le modèle **CNN** est utilisé pour extraire les caractéristiques visuelles des signes, tandis que **LSTM** est utilisé pour capturer la dynamique temporelle des mouvements des mains et des gestes.
 
 L'objectif est de fournir une méthode efficace pour interpréter les gestes de la langue des signes et permettre une communication fluide entre les personnes sourdes et entendantes.
 
