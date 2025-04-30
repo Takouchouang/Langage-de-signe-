@@ -26,7 +26,7 @@ Streamlit : Pour l'interface utilisateur.
 - **cd langage-de-signe**
 
 2. Créer un environnement virtuel
-- python -m venv env
+- **python -m venv env**
 - **Pour Linux/Mac** :
 source env/bin/activate :
 - **Pour Windows** :
