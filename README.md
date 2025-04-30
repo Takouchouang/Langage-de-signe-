@@ -8,7 +8,7 @@ L'objectif est de fournir une méthode efficace pour interpréter les gestes de 
 
 # Objectifs du projet :
 Créer un système de reconnaissance des gestes de la langue des signes en utilisant les architectures **CNN** pour l'extraction des caractéristiques d'images et **LSTM** pour la prédiction séquentielle des gestes.
-Utiliser Mediapipe pour la détection en temps réel des repères corporels, notamment les mains et le visage, afin d'extraire les gestes pour l'entraînement et la reconnaissance.
+Utiliser **Mediapipe** pour la détection en temps réel des repères corporels, notamment les mains et le visage, afin d'extraire les gestes pour l'entraînement et la reconnaissance.
 Prévoir une haute précision de reconnaissance pour un large éventail de signes dans différentes conditions.
 
 
